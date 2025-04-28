@@ -4,7 +4,7 @@ import Image from "next/image";
 import { getRandomInterviewCover } from "@/lib/utils";
 import { Button } from "./ui/button";
 import Link from "next/link";
-import DisplayTechIconts from "./DisplayTechIconts";
+import DisplayTechIconts from "./DisplayTechIcons";
 
 const InterviewCard = ({
   interviewId,
